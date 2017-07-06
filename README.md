@@ -11,15 +11,15 @@ LineChart for Swift.
 
 <img src="linechart.gif" width="300">
 
-##Usage
-###1.Drag the 'SMLineChartView' to your project.
-###2.Create a UIView on storyboard or xib.
-###3.Setting the class of UIView for 'SMLineChartView'
+## Usage
+### 1.Drag the 'SMLineChartView' to your project.
+### 2.Create a UIView on storyboard or xib.
+### 3.Setting the class of UIView for 'SMLineChartView'
+
 <img src="linechart_st.png" width="300">
-###4.Setting TagView:
 
+### 4.Setting SMLineChartView:
 
-##Usage
 ```swift
 var xList : [String] = []
     
